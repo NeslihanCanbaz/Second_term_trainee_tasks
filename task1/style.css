@@ -66,22 +66,3 @@ nav a:hover {
     padding: 10px;
   }
 }
-
-body.dark section {
-  background-color: #1e1e1e;
-  color: #eee;
-}
-
-body.dark p {
-  color: #aaa;
-}
-
-body.dark nav a {
-  background-color: #eee;
-  color: #111;
-}
-
-body.dark nav a:hover {
-  background-color: #6c63ff;
-  color: white;
-}
