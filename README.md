@@ -41,9 +41,9 @@ Bu depo (repository), staj süreniz boyunca tamamlamanız gereken temel web tekn
 ### 🐘 Bölüm 3: PHP (7-9. Gün)
 * **Görev:** İletişim formu verilerini veritabanı olmadan sunucudaki bir `.txt` dosyasına kaydedin.
 * **Beklentiler:**
-  - [ ] Ad, Soyad ve Mesaj alanlarından oluşan basit bir HTML formu oluşturun.
-  - [ ] Formun `action` parametresi bir PHP dosyasına yönlensin ve verileri `POST` metoduyla göndersin.
-  - [ ] PHP tarafında bu verileri alıp, sunucu içinde `mesajlar.txt` adlı bir dosyaya her yeni mesaj alt alta gelecek şekilde yazdırın.
+  - [x] Ad, Soyad ve Mesaj alanlarından oluşan basit bir HTML formu oluşturun.
+  - [x] Formun `action` parametresi bir PHP dosyasına yönlensin ve verileri `POST` metoduyla göndersin.
+  - [x] PHP tarafında bu verileri alıp, sunucu içinde `mesajlar.txt` adlı bir dosyaya her yeni mesaj alt alta gelecek şekilde yazdırın.
 
 ### 🌐 Bölüm 4: Laravel (10-12. Gün)
 * **Görev:** Hazır kimlik doğrulama (Giriş Yap / Kayıt Ol) sistemini ayağa kaldırın.
