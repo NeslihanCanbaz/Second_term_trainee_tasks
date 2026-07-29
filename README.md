@@ -63,9 +63,9 @@ Bu depo (repository), staj süreniz boyunca tamamlamanız gereken temel web tekn
 ### ⚙️ Bölüm 6: Node.js (16-18. Gün)
 * **Görev:** Express.js kullanarak statik bir JSON verisi dönen "Kitap Listesi API'si" yazın.
 * **Beklentiler:**
-  - [ ] `npm init` ile projeyi başlatıp `express` paketini yükleyin.
-  - [ ] Kodun içerisinde elle yazılmış (hardcoded) 3-4 adet kitap nesnesi barındıran bir dizi (Array) oluşturun.
-  - [ ] `/api/books` rotasına (Route) `GET` isteği atıldığında bu kitap listesini JSON formatında döndürün.
+  - [x] `npm init` ile projeyi başlatıp `express` paketini yükleyin.
+  - [x] Kodun içerisinde elle yazılmış (hardcoded) 3-4 adet kitap nesnesi barındıran bir dizi (Array) oluşturun.
+  - [x] `/api/books` rotasına (Route) `GET` isteği atıldığında bu kitap listesini JSON formatında döndürün.
 
 ### 🛠️ Bölüm 7: TypeScript (19-21. Gün)
 * **Görev:** Bir önceki Node.js API görevine TypeScript entegre ederek tip güvenliği sağlayın.
