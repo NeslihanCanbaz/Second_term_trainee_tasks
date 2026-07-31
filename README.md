@@ -70,9 +70,9 @@ Bu depo (repository), staj süreniz boyunca tamamlamanız gereken temel web tekn
 ### 🛠️ Bölüm 7: TypeScript (19-21. Gün)
 * **Görev:** Bir önceki Node.js API görevine TypeScript entegre ederek tip güvenliği sağlayın.
 * **Beklentiler:**
-  - [ ] Projeye TypeScript ekleyin ve `tsconfig.json` ayarlarını yapın.
-  - [ ] Kitap nesnesi için bir `interface` veya `type` tanımlayın (Örn: `id: number`, `title: string`, `author: string`).
-  - [ ] Kitap dizisini ve API fonksiyon parametrelerini bu tiplerle sınırlandırın.
+  - [x] Projeye TypeScript ekleyin ve `tsconfig.json` ayarlarını yapın.
+  - [x] Kitap nesnesi için bir `interface` veya `type` tanımlayın (Örn: `id: number`, `title: string`, `author: string`).
+  - [x] Kitap dizisini ve API fonksiyon parametrelerini bu tiplerle sınırlandırın.
 
 ### 🚀 Bölüm 8: Next.js (22-25. Gün)
 * **Görev:** Next.js App Router yapısını kullanarak çok sayfalı basit bir web sitesi yapın.
